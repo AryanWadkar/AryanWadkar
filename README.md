@@ -13,7 +13,7 @@ I am a MERN stack developer and a Flutter app developer currently in undergrad s
 </div>
 <img src="https://komarev.com/ghpvc/?username=AryanWadkar&style=flat-square&color=blue" alt=""/>
 
-🔭 I’m currently working on too many projects than I should be :)
+🔭 I’m currently looking for projects to work on :)
 
 🌱 I’m currently learning Next.JS
 
