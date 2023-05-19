@@ -1,7 +1,7 @@
 <h1>Aryan says 👋</h1>
 
 ## About Me:
-I am a MERN stack developer and a Flutter app developer currently in undergrad school.
+I am a Flutter app developer and a MERN stack developer currently in undergrad school.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/aryan-wadkar-784966200">
@@ -19,7 +19,7 @@ I am a MERN stack developer and a Flutter app developer currently in undergrad s
 
 👯 I’m looking to collaborate on anything you throw at me
 
-💬 Ask me about Flutter and React Dev
+💬 Ask me about Flutter and MERN Apps
 
 📫 How to reach me: Linkedin/Ig links above.
 
